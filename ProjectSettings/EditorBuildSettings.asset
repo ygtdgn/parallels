@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFC.unity"
+    guid: f90ed21423f10a84ab6c0c3809ec3e61
+  - enabled: 0
+    path: Assets/Scenes/Deneme.unity
+    guid: 671be2c4ac7bd4240875a872fab3a16f
+  - enabled: 1
+    path: Assets/Scenes/Sahne1.unity
+    guid: dc4f3c95705656f468a420109bd09516
+  - enabled: 1
+    path: Assets/Scenes/sahne2.unity
+    guid: 9232a84b1183d4f418093476bcd0abdd
+  - enabled: 1
+    path: Assets/Scenes/sahne3.unity
+    guid: c84a57aabb347d14f81c66685467c874
+  - enabled: 1
+    path: Assets/Scenes/Maceraci.unity
+    guid: f87e26d122f81e64986758fd102f5d90
+  - enabled: 1
+    path: "Assets/Scenes/Savasc\u0131.unity"
+    guid: 71788b738542a9141bf6292f4253f576
+  m_configObjects: {}

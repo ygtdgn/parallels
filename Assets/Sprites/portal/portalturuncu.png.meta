@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 255622cca4d41984db7be5b7eeeb39b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6082000447836828488
+    second: portalturuncu_0
+  - first:
+      213: 6199614500064477079
+    second: portalturuncu_1
+  - first:
+      213: -6620511926084936064
+    second: portalturuncu_2
+  - first:
+      213: 6952884419730838041
+    second: portalturuncu_3
+  - first:
+      213: 3688303540763434991
+    second: portalturuncu_4
+  - first:
+      213: -8886081691675526666
+    second: portalturuncu_5
+  - first:
+      213: 4797734613398816732
+    second: portalturuncu_6
+  - first:
+      213: 3683544386200379097
+    second: portalturuncu_7
+  - first:
+      213: 852044334550461513
+    second: portalturuncu_8
+  - first:
+      213: -4581022622862281835
+    second: portalturuncu_9
+  - first:
+      213: -4650505314357911108
+    second: portalturuncu_10
+  - first:
+      213: -5088131899243310704
+    second: portalturuncu_11
+  - first:
+      213: 2956280108742660186
+    second: portalturuncu_12
+  - first:
+      213: -1585274629070866340
+    second: portalturuncu_13
+  - first:
+      213: 424787143487726222
+    second: portalturuncu_14
+  - first:
+      213: -7164371107619759885
+    second: portalturuncu_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portalturuncu_0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 9
+        width: 157
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b419fe2b976450800000000000000
+      internalID: 6082000447836828488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 4
+        width: 157
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f34b47a84790650800000000000000
+      internalID: 6199614500064477079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 4
+        width: 163
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e587eea773f14a0800000000000000
+      internalID: -6620511926084936064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_3
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129762ba8b9d7060800000000000000
+      internalID: 6952884419730838041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_4
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 298
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1503678c7f2330800000000000000
+      internalID: 3688303540763434991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 147
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9f39a28cb4ea480800000000000000
+      internalID: -8886081691675526666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_6
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 9
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78b3e163af49240800000000000000
+      internalID: 4797734613398816732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_7
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 9
+        width: 152
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9bdd5a149e1330800000000000000
+      internalID: 3683544386200379097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_8
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 19
+        width: 142
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca3c5dec113db00800000000000000
+      internalID: 852044334550461513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_9
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 283
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f3402230fc60c0800000000000000
+      internalID: -4581022622862281835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_10
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 23
+        width: 143
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb161a75e06167fb0800000000000000
+      internalID: -4650505314357911108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_11
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 19
+        width: 149
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d447eef25369b0800000000000000
+      internalID: -5088131899243310704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_12
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 218
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d82a8811d60920800000000000000
+      internalID: 2956280108742660186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_13
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 199
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58bacebf19fff9e0800000000000000
+      internalID: -1585274629070866340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_14
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 164
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e822db808a525e500800000000000000
+      internalID: 424787143487726222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portalturuncu_15
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 144
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f89043af6a039c90800000000000000
+      internalID: -7164371107619759885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      portalturuncu_6: 4797734613398816732
+      portalturuncu_12: 2956280108742660186
+      portalturuncu_2: -6620511926084936064
+      portalturuncu_4: 3688303540763434991
+      portalturuncu_11: -5088131899243310704
+      portalturuncu_9: -4581022622862281835
+      portalturuncu_1: 6199614500064477079
+      portalturuncu_10: -4650505314357911108
+      portalturuncu_13: -1585274629070866340
+      portalturuncu_14: 424787143487726222
+      portalturuncu_0: 6082000447836828488
+      portalturuncu_15: -7164371107619759885
+      portalturuncu_5: -8886081691675526666
+      portalturuncu_8: 852044334550461513
+      portalturuncu_3: 6952884419730838041
+      portalturuncu_7: 3683544386200379097
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
